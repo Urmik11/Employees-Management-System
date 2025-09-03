@@ -1,0 +1,12 @@
+------------ All Resigned Employees Details ------------
+------------------ Employee 1 Detail ------------------
+     Employee ID   : 15
+     Department ID : 105
+     Role ID       : 24
+     First Name    : Urmik
+     Last Name     : Dobariya
+     Phone         : 9227083370
+     Salary        : 35000
+     Hire Date     : 2024-06-01
+     Resign Date   : 2024-08-31
+=======================================================
