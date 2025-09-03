@@ -27,5 +27,4 @@ It demonstrates how Java applications can interact with SQL databases to perform
 ## 📖 Notes
 - Database name: `emp`  
 - Tables: `departments`, `employees`, `resigned_employees`, `role` (with sample data preloaded)  
-- `Employee.java` → handles JDBC connection and database operationsThis project is a **Employee Management System** that integrates with a **MySQL database** using **JDBC**.  
-It demonstrates the use of core Java concepts, database connectivity, and CRUD operations for managing employees data.
+- `Employee.java` → handles JDBC connection and database operationsThis project is a **Employee Management System** that integrates with a **MySQL database** using **JDBC**. 
